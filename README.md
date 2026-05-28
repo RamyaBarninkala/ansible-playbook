@@ -10,4 +10,4 @@ This project installs Nginx on remote EC2 instances using Ansible.
 ## Run Playbook
 
 ```bash
-ansible-playbook -i inventory playbook.yml
+ansible-playbook -i inventory firstplaybook.yml
